@@ -2,45 +2,19 @@
   /* background-color: yellow; */
   border: 10px solid violet;
 
-  
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
 
-
 .birthday-month-list {
   text-align: center;
   padding: 10px;
-
 }
 
 .fellows {
   text-align: center;
   padding: 10px;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #root {
   max-width: 1280px;
